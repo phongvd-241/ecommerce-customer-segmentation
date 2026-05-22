@@ -26,8 +26,6 @@ models/*
 !models/.gitkeep
 
 # Figures
-reports/figures/*
-!reports/figures/.gitkeep
 
 # System files
 .DS_Store
